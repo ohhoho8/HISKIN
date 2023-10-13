@@ -10,4 +10,8 @@ const colors = {
 export const theme = {
   background: colors.white,
   text: colors.black,
+
+  headerTintColor: colors.black,
+  tabActiveColor: colors.blue,
+  tabInactiveColor: colors.grey_1,
 };
