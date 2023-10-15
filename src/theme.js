@@ -14,4 +14,8 @@ export const theme = {
   headerTintColor: colors.black,
   tabActiveColor: colors.blue,
   tabInactiveColor: colors.grey_1,
+
+  label: colors.grey_1,
+  inputPlaceholder: colors.grey_1,
+  inputBorder: colors.grey_1,
 };
